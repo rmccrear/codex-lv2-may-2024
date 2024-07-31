@@ -15,4 +15,5 @@
 - reviewing code that is unfamiliar to us
 - synchronous and asynchronous code with .then()
 - more uses of breakpoints
+- quick git tip: git branch and git switch
 - javascript: more ways to DRY up your code with functions
