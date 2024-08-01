@@ -13,6 +13,17 @@
 ## Day 3
 
 - reviewing code that is unfamiliar to us
+  - What is prototype? (Objects)
+  - accessing property of `null` object (Objects)
+  - Error # 10 CaseSensitiveVar
+  - THREE MORE THINGS THAT ARE UNFAMILIAR TO YOU
+  - undefined variable
+  - .then()
+  - .split() (String function)
+  - .match()
+  -  => arrow function callbacks
+  - arr (array) as a function argument
+
 - synchronous and asynchronous code with .then()
 - more uses of breakpoints
 - quick git tip: git branch and git switch
