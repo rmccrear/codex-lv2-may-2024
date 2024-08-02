@@ -21,10 +21,17 @@
   - .then()
   - .split() (String function)
   - .match()
-  -  => arrow function callbacks
+  - => arrow function callbacks
   - arr (array) as a function argument
 
 - synchronous and asynchronous code with .then()
 - more uses of breakpoints
 - quick git tip: git branch and git switch
 - javascript: more ways to DRY up your code with functions
+
+## Day 4
+
+- Lighthouse Dev Tools
+- Share your capstone, and try out Lighthouse
+- git branch, git switch
+- JavaScript functions with choruses!
