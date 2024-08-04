@@ -35,3 +35,8 @@
 - Share your capstone, and try out Lighthouse
 - git branch, git switch
 - JavaScript functions with choruses!
+
+## Day 5
+
+- Review Day 1 Questions
+- LightHouse Challenge
