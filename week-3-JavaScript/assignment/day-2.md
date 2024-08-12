@@ -55,8 +55,8 @@ pet1.status(); // Output: Pet Name: Fluffy, Species: Dog, Happiness: 70, Energy:
 ```
 
 #### Evaluation Criteria:
-- Correct implementation of the `createPet` factory function with all required properties and methods. (10 points)
+- Correct implementation of the `createPet` factory function with all required properties and methods. (5 points)
 - Proper use of JavaScript syntax and object-oriented principles. (5 points)
 - Clear and concise comments explaining the code. (3 points)
 - Successful completion of the bonus task (if attempted). (2 points)
-- Note: Completing required tasks will result in 18/20 score (an "A"). Completing the bonus will result in 20/20 (an "A+").
+- Note: Completing required tasks will result in 13/15 score (an "A"). Completing the bonus will result in 20/20 (an "A+").

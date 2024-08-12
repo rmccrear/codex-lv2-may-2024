@@ -60,8 +60,8 @@ pet.status(); // Output: Pet Name: Sparky, Species: Dog, Happiness: 80
 ```
 
 #### Evaluation Criteria:
-- Correct implementation of the `pet` object with all required properties and methods. (10 points)
+- Correct implementation of the `pet` object with all required properties and methods. (5 points)
 - Proper use of JavaScript syntax and object-oriented principles. (5 points)
 - Clear and concise comments explaining the code. (3 points)
 - Successful completion of the bonus task (if attempted). (2 points)
-- Note: Completing required tasks will result in 18/20 score (an "A"). Completing the bonus will result in 20/20 (an "A+"). This is because Moodle doesn't allow for extra "bonus" points on assignments.
+- Note: Completing required tasks will result in 13/15 score (an "A"). Completing the bonus will result in 15/15 (an "A+"). This is because Moodle doesn't allow for extra "bonus" points on assignments.

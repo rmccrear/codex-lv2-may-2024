@@ -50,10 +50,9 @@ for (let i = 0; i < kennel.length; i++) {
 kennel.forEach(pet => pet.status());
 ```
 
-#### Evaluation Criteria:
-- Correct implementation of the `play` method to manage both happiness and energy. (5 points)
-- Effective use of the `for` loop to play with and then feed pets conditionally. (10 points)
-- Properly logged status of each pet after playing and feeding. (3 points)
-- Clear and concise comments explaining the code. (2 points)
-- Good indentation. No used variables. etc.  (3 points)
-- **Bonus:** Random initial energy values between 0 and 50 for each pet. (2 points)
+#### Evaluation Criteria (10 points):
+- Correct implementation of the `play` method to manage both happiness and energy. (2 points)
+- Effective use of the `for` loop to play with and then feed pets conditionally. (5 points)
+- Properly logged status of each pet after playing and feeding. (1 points)
+- Clear and concise comments explaining the code. Good indentation. (1 points)
+- **Bonus:** Random initial energy values between 0 and 50 for each pet. (1 points)

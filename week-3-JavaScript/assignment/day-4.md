@@ -46,8 +46,8 @@ for (let i = 0; i < fishTank.length; i++) {
 // ...
 ```
 
-#### Evaluation Criteria:
-- Correct creation and population of three distinct kennels. (10 points)
-- Proper use of the `for` loop to iterate through each array and feed the pets. (5 points)
-- Clear and concise comments explaining the code. (3 points)
-- Successful output of the final status for all pets. (2 points)
+#### Evaluation Criteria (10 points):
+- Correct creation and population of three distinct kennels. (5 points)
+- Proper use of the `for` loop to iterate through each array and feed the pets. (3 points)
+- Clear and concise comments explaining the code. (1 point)
+- Successful output of the final status for all pets. (1 point)
