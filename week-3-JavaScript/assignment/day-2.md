@@ -18,8 +18,8 @@ NOTE: The trick to this is to put object creation inside a function the, RETURN 
 
 2. **Add Methods:**
    - Add a method named `play` to the pet object. This method should decrease the `energy` by 20, increase the `happiness` by 10, and return a message like, "You played with Fluffy! Happiness is now 60, and energy is now 80."
-   - Add a method named `feed` to the pet object. This method should increase both the `happiness` and `energy` properties by 20 and print a message like, "You fed Fluffy! Happiness is now 70, and energy is now 100."
-   - Add a method named `status` to the pet object. This method should print a message like, "Pet Name: Fluffy, Species: Dog, Happiness: 70, Energy: 100."
+   - Add a method named `feed` to the pet object. This method should increase both the `happiness` and `energy` properties by 20 and print a message like, "You fed Fluffy! Happiness is now 80, and energy is now 100."
+   - Add a method named `status` to the pet object. This method should print a message like, "Pet Name: Fluffy, Species: Dog, Happiness: 80, Energy: 100."
 
 3. **Implement and Test:**
    - Create multiple pets using the `createPet` factory function, each with different names and species.
@@ -33,7 +33,7 @@ NOTE: The trick to this is to put object creation inside a function the, RETURN 
    - Test this method by resting one of your pets and logging the new status using the `status` method.
 
 #### Submission:
-Submit your code in a JavaScript file named `petFactory.js`. Ensure your code is well-commented to explain what each part does.
+Use git to commit and push your code. Your code for day 2 will be in the file `index-2.js`. Ensure your code is well-commented to explain what each part does.
 
 #### Example Output:
 ```javascript

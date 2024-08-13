@@ -22,7 +22,7 @@ This assignment will help you practice organizing objects into different arrays 
    - After each loop, log the final status of every pet in the kennel using their `status` method.
 
 #### Submission:
-Submit your code in a JavaScript file named `multipleKennels.js`. Ensure your code is well-commented.
+Use git to commit and push your code. Your code for day 4 will be in the file `index-4.js`. Ensure your code is well-commented to explain what each part does.
 
 #### Example Output:
 ```javascript

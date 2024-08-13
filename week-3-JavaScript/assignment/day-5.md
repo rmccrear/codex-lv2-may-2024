@@ -29,7 +29,7 @@ This assignment will reinforce your understanding of JavaScript loops and condit
    - Display the status of each pet before and after feeding.
 
 #### Submission:
-Submit your code in a JavaScript file named `managePetEnergy.js`. Ensure your code is well-commented to explain what each part does.
+Use git to commit and push your code. Your code for day 5 will be in the file `index-5.js`. Ensure your code is well-commented to explain what each part does.
 
 #### Example Output:
 ```javascript

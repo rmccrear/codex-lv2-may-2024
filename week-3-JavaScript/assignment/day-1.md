@@ -44,7 +44,7 @@ Each day, you will make one file. The first day, you will make `index.js`, the s
    - Test this method by renaming your pet and logging the new status using the `status` method.
 
 #### Submission:
-Submit your code in a JavaScript file named `petObject.js`. Ensure your code is well-commented to explain what each part does.
+Use git to commit and push your code. Your code for day 1 will be in the file `index.js`. Ensure your code is well-commented to explain what each part does.
 
 #### Example Output:
 ```javascript

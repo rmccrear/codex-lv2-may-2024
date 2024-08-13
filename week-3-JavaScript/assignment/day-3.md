@@ -25,10 +25,9 @@ This assignment will help you practice using arrays in JavaScript by creating an
 
 #### Bonus Task (Optional):
    - Use console.table() instead of console.log()
-   -
 
 #### Submission:
-Submit your code in a JavaScript file named `kennel.js`. Ensure your code is well-commented to explain each step.
+Use git to commit and push your code. Your code for day 3 will be in the file `index-3.js`. Ensure your code is well-commented to explain what each part does.
 
 #### Example Output:
 ```javascript
