@@ -9,7 +9,7 @@
 - JavaScript Object Review
 - What is `this`
 
-## Day 1
+## Day 2
 
 - Reading
   - Question 2: In what scenarios would you need to use bracket notation instead of dot notation to access a property in an object? Provide an example.
