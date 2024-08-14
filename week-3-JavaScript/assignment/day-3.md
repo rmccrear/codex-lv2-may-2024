@@ -25,6 +25,10 @@ This assignment will help you practice using arrays in JavaScript by creating an
 
 #### Bonus Task (Optional):
    - Use console.table() instead of console.log()
+   - Research and use the forEach array method to make each pet rest.
+   - Try to use if-statements to prevent energy from going bellow 0 or above 100.
+   - Have a max energy level specific to each pet determined in the factory function.
+   - Think of a game mechanic to decrease happiness so happiness can fluctuate and make the game more fun.
 
 #### Submission:
 Use git to commit and push your code. Your code for day 3 will be in the file `index-3.js`. Ensure your code is well-commented to explain what each part does.

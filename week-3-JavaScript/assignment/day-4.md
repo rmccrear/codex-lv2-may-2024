@@ -21,6 +21,13 @@ This assignment will help you practice organizing objects into different arrays 
 4. **Output the Final Status:**
    - After each loop, log the final status of every pet in the kennel using their `status` method.
 
+Bonus Ideas:
+
+   - Make your functions have some randomness involved to the degree they change the values of `energy` and `happiness`
+   - Make some pets get "tired" faster than others.
+   - Have a function that decreases happiness (like: `badDog`, or `bored`).
+   - Try using the `forEach` method instead of `for`.
+
 #### Submission:
 Use git to commit and push your code. Your code for day 4 will be in the file `index-4.js`. Ensure your code is well-commented to explain what each part does.
 
