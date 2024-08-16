@@ -19,3 +19,10 @@
   - Question 4: How does the behavior of the this keyword differ when used in a function inside the global context compared to when it's used inside an object method?
     - Answer: In a method, `this` refers to the object.
     - In a function, `this` is the "global context".
+
+## Review for the week
+
+- Day 1: Creating Objects (one by one, manually)
+- Day 2: Factory Functions (Creating objects)
+- Day 3: Objects in an array (people in a house, pets in a kennel)
+- Day 4: for loops
