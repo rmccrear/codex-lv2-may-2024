@@ -9,7 +9,7 @@ NOTE: This time, don't include a input with type of "submit" in your form. We do
 
 1. **Create an HTML File:**
    - Create a file named `index.html`.
-   - Inside the `<body>`, create a form with fields for the pet owner's name, email, City, Zip Code, and pet's name.
+   - Inside the `<body>`, create a form with fields for the pet owner's name, email, phone, city, zip code, and pet's name.
 
 2. **Create a JavaScript File:**
    - Create a file named `script.js`.
@@ -38,6 +38,23 @@ NOTE: This time, don't include a input with type of "submit" in your form. We do
    - Fill out the form and click the "Sign Up" button.
    - Check the console to see the contents of the `state` object.
    - Remember to do a "proof of life" for each step of your program. Check that it works before moving on.
+
+#### A note about `state`
+
+The "state" of a program refers to the current condition or status of a program, or component at a specific point in time. This includes the values of all the variables (the data). So, we will put all the global data into one object. We will give the variable that holds it all `state` to indicate it contains the primary data the program needs to operate.
+
+Here is an example what your `state` object would look like after logging it to the console.
+
+```javascript
+{
+   name: 'Bob',
+   phone: '555-555-5555',
+   city: 'Nashville',
+   zip: 37011,
+   email: 'bob@example.com',
+   petName: 'Rex'
+}
+```
 
 #### Submission:
 Submit your `index.html` and `script.js` files. Ensure your code is well-commented, explaining each part.
