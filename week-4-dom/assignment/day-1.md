@@ -59,8 +59,26 @@ Here is an example what your `state` object would look like after logging it to 
 #### Submission:
 Submit your `index.html` and `script.js` files. Ensure your code is well-commented, explaining each part.
 
-#### Evaluation Criteria:
-- Correct implementation of the HTML form and JavaScript function.
-- Accurate storing of form data in the `state` object.
-- Proper use of JavaScript to capture and log the form data.
-- **Bonus:** Proper handling of the optional pet type selection in the `state` object.
+### 10-Point Rubric for Pet Owner Sign-Up Form Assignment
+
+1. **HTML Form Structure (2 points)**
+   - 1 point: The form includes all required fields (owner's name, email, phone, city, zip code, pet's name).
+   - 1 point: The form includes a button with type "button" instead of a "submit" input.
+
+2. **JavaScript File Creation (2 points)**
+   - 1 point: The `script.js` file is correctly linked to `index.html`, and initial proof of life ("hello world") is logged.
+   - 1 point: A global `state` object is correctly defined, and its initial state is logged.
+
+3. **Event Listener & Button Setup (2 points)**
+   - 1 point: The event listener on the button is properly set up to trigger `saveForm()` on click, with proof of life logged ("button clicked!").
+   - 1 point: The `saveForm()` function captures form data and logs each value or uses `console.table` for debugging.
+
+4. **State Object Population (2 points)**
+   - 1 point: The `saveForm()` function correctly populates the `state` object with data from all form fields.
+   - 1 point: The final state of the `state` object is accurately logged to the console after all data is saved.
+
+5. **Bonus Task - Optional (2 points)**
+   - 1 point: A select element for pet type is included in the form and properly integrated into the `state` object.
+   - 1 point: A factory function for the `petOwner` with a `status` method is implemented, and basic styling improvements using Bootstrap or CSS are applied.
+
+**Total: 10 points**
