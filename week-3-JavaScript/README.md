@@ -22,7 +22,8 @@
 
 ## Review for the week
 
-- Day 1: Creating Objects (one by one, manually)
+Day 1: Creating Objects (one by one, manually)
+
     let pet = {
       name: "Fluffy",
       species: "cat",
@@ -30,7 +31,9 @@
           console.log("You feed " + this.name);
       }
     }
-- Day 2: Factory Functions (Creating objects)
+
+Day 2: Factory Functions (Creating objects)
+
     // Step 1: pass arguments
     // Step 2: create new object 
     // Step 3: return the object
@@ -42,13 +45,17 @@
       }
       return p;
     }
-- Day 3: Objects in an array (people in a house, pets in a kennel)
+
+Day 3: Objects in an array (people in a house, pets in a kennel)
+
     let kennel = [];
     let p1 = createPet("Fluffy", "Cat", 5);
     kennel.push(p1);
     kennel.push(createPet("Snowball", "Cat", 2));
     kennel[2] = createPet("Frisky", "Cat", 4);
-- Day 4: for loops
+
+Day 4: for loops
+
     // FEED EACH PET in KENNEL
     // LET KENNEL be the list of pets
     // GIVEN each pet has a feed method
@@ -60,7 +67,9 @@
     }
 
     // DO NOT WANT: kennel[100]  if we only have 5 cats, for example
-- Day 5: conditionally feed our cat (Or have birthday party)
+
+Day 5: conditionally feed our cat (Or have birthday party)
+
     // GIVEN a list of cats in a KENNEL
     // feed each cat, but only if the cat is hungry
     
@@ -70,7 +79,6 @@
 
     // FOR EACH p in the KENNEL
     //   ??? 
-
 
 ## Birthday Example
 
