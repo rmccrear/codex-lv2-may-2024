@@ -12,7 +12,7 @@ This assignment will reinforce your understanding of JavaScript loops and condit
      - Returns a message like, "You played with Fluffy! Happiness is now 60, Energy is now 85."
 
 2. **Play with Pets:**
-   - Before feeding, use a `for` loop to play with some pets more than others (e.g., play with the first pet three times, the second pet once, etc.).
+   - Before feeding, play with some pets more than others (e.g., play with the first pet three times, the second pet once, etc.). (Bonus use a for loop and random to feed them randomly)
    - Log the status of each pet after playing.
 
 3. **Feed Pets Conditionally:**
