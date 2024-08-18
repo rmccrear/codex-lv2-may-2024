@@ -56,6 +56,9 @@ In this assignment, you’ll split your JavaScript code into multiple files and 
    - After each significant change, commit your changes using Git.
    - Make sure to write clear and descriptive commit messages.
 
+7. More bonus ideas
+   - This time you created all the pets in one array called `pets`. This is different from when we used kennels to organize the species of pets. Try researching and using the `filter` method to create a new array with just the cats, dogs, or fish.
+
 #### Evaluation Criteria (10 Points):
 
 1. **Project Setup (2 Points)**
