@@ -23,3 +23,9 @@ In this assignment, you’ll split your JavaScript code into multiple files to c
 In this assignment, you'll extend your pet management system by creating a method to generate HTML for each pet and render it on the webpage. You'll practice looping through arrays, aggregating HTML strings, and dynamically updating the DOM. This enhances your skills in DOM manipulation, methods, and JavaScript functions.
 
 [ details ](./day-4.md)
+
+### Day 5
+
+In this assignment, you'll learn to split JavaScript code across multiple files and manage state using `localStorage`. You'll adapt your existing code to handle objects with methods by serializing and deserializing state, deepening your understanding of state management and persistence in web applications.
+
+[ details ](./day-5.md)
