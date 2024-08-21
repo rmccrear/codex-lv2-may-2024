@@ -18,7 +18,7 @@ Update your `index.html` and your `script.js` files from yesterday.
      - proof of life: use console.log and the Console in Dev Tools to test this factory function.
 
 2. **Update the EventListener**
-   - update the EventLister function so that it creates a pet after the user clicks the button. (HINT: You won't necessarily need a new function, just update the old function from Day 1.)
+   - update the EventLister function so that it creates a petOwner after the user clicks the button. (HINT: You won't necessarily need a new function, just update the old function from Day 1.)
    - Note: create the petOwner from the data that you stored in global `state`. This will help us decouple the `form` from the data and the display.
 
 3. **Update the HTML File:**
