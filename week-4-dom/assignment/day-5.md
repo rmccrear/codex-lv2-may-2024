@@ -4,7 +4,8 @@
 In this assignment, you'll continue building your pet management system, now incorporating `localStorage` to persist data across page reloads. You'll learn how to manage state in a separate file, handle serialization and deserialization of objects with methods, and structure your project to maintain clean code.
 
 #### Files to be Used:
-- `index.js`
+
+- `index.html`
 - `pets.html`
 - `pets.js`
 - `petCreator.js`
@@ -52,7 +53,7 @@ In this assignment, you'll continue building your pet management system, now inc
    - Update your code in `pets.js` to reference `state.pets` instead of `state`.
 
    **Serialization and Deserialization:**
-   -  NOTE: You can't store the pet object in javascript. This is becuase it contains functions as well as data. So, we will need to "serialize" the object first to save only the data. When we bring it out of "deep storage" we can "rehydrate" it by calling createPet on its data afresh.
+   - NOTE: You can't store the pet object in javascript. This is because it contains functions as well as data. So, we will need to "serialize" the object first to save only the data. When we bring it out of "deep storage" we can "rehydrate" it by calling createPet on its data afresh.
    - Since this can be tricky, the code is given for you. It is your job to make it work in your code. Use the Dev Tools if you get stuck and use `console.log()` frequently to give proof of life.
    - **Serialization**: Create a function in `state.js` called `savePets` that converts the `pets` array to a JSON-compatible format, excluding methods, and saves it to `localStorage`.
      ```javascript
