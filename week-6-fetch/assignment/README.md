@@ -1,3 +1,9 @@
+# Overview
+
+You will practice fetching pokemon data with the [Pokemon API](https://pokeapi.co/) and working with it in JavaScript and the DOM.
+
+Create one repository for the week. You may call it something like `poke-fetcher`.
+
 
 ## Day 1
 
