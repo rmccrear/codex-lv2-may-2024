@@ -17,12 +17,12 @@ In this assignment, you will create a webpage that allows users to fetch data fr
 
 3. **Fetch Data from the PokéAPI:**
    - Use the fetch API to request data for the Pokémon entered by the user.
-   - Handle errors gracefully (e.g., display a message if the Pokémon is not found).
+   - Handle errors gracefully (e.g., display a message if the Pokémon is not found). (Optional.)
    - Proof of Life: Log the fetched data to the console to verify the correct data is being retrieved.
 
-4. **Create a Pokémon Object:**
-   - Define a factory function named `createPokemon` in `script.js` that takes the fetched data as an argument.
-   - The factory function should return an object with properties like `name`, `id`, `type`, and `sprite`.
+4. **Create a Pokémon Object (Optional):**
+   - Define a factory function named `createPokemon` in `script.js` that takes the fetched data as an argument. (Optional for day 1)
+   - The factory function should return an object with properties like `name`, `id`, `type`, and `sprite`. (Optional for day 1)
    - Proof of Life: Log the created Pokémon object to the console to ensure it is being created correctly.
 
 5. **Display the Pokémon Data:**
