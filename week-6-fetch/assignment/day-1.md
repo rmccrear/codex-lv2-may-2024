@@ -3,6 +3,8 @@
 #### Objective:
 In this assignment, you will create a webpage that allows users to fetch data from the PokéAPI by entering a Pokémon's name or ID. You will use JavaScript to fetch the data, a factory function to create a Pokémon object, and then display the Pokémon's information in a styled card on the page.
 
+Poke API docs can be found here: https://pokeapi.co/
+
 #### Instructions:
 
 1. **Set Up Your HTML File:**
