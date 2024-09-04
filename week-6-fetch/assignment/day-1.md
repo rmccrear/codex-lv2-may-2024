@@ -19,6 +19,7 @@ Poke API docs can be found here: https://pokeapi.co/
 
 3. **Fetch Data from the PokéAPI:**
    - Use the fetch API to request data for the Pokémon entered by the user.
+   - Use the json method to convert the response's data to a javascript object.
    - Handle errors gracefully (e.g., display a message if the Pokémon is not found). (Optional.)
    - Proof of Life: Log the fetched data to the console to verify the correct data is being retrieved.
 
