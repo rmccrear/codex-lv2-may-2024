@@ -11,3 +11,8 @@ In this assignment, you'll create a webpage that fetches and displays Pokémon i
 
 [ [details](./day-2.md) ]
 
+## Day 3 (optional)
+
+In this assignment, you'll create a webpage that uses a form to input two Pokémon names and generates a strategy prompt. You'll use JavaScript to store an API key in `localStorage`, retrieve it, and send a prompt to Huggingface's model API. The API will return a suggested battle strategy based on the two Pokémon, which you'll display on the webpage. You are encouraged to engineer unique prompts to explore different requirements. The assignment reinforces concepts like working with APIs, handling `localStorage`, and dynamically updating the DOM, with version control via Git for each significant step.
+
+[ [details](./day-3.md) ]
