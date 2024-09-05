@@ -1,0 +1,3 @@
+# Optional Presentation
+
+You are highly encouraged to present your project using the [slides](https://docs.google.com/presentation/d/1bcykAYADfWhaRNLvpfnq5_b4bXwIyzyFCxwDkZfnObU/edit?usp=sharing) you created on Day 1. Saturday, the last day of class, in the second hour, you will be given a chance to show your code. Rehearse your demo and get ready for a great time! If there is interest in presenting, we can invite some guests to view and give professional comments on your projects.
